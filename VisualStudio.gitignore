@@ -178,3 +178,7 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+
+# ignoring Nuget packages
+packages/*
+!packages/repositories.config
